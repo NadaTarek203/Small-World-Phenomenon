@@ -1,0 +1,13 @@
+Query   Deg Chain
+A/B     1 
+C/E     2 
+F/G     1 
+E/H     2 
+E/K     3 
+E/N     4 
+C/F     3 
+Z/B     2 
+Z/D     2 
+Z/G     3 
+Z/J     5 
+Z/L     6 

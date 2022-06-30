@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3iZtixrfviu94JYRBe8upNHtfBXVCzlC7xZwLgEc1FWHmQKFD+E5eOjRJ1XeSJy92JgwTLXgoonPq7sps2A5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nada\\Dropbox\\PC\\Desktop\\Small_World\\Small_World\\Small_World.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nada\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

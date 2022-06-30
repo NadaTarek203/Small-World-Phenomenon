@@ -1,0 +1,53 @@
+C:\Users\Nada\source\repos\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.csproj.AssemblyReference.cache
+C:\Users\Nada\source\repos\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada\source\repos\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.AssemblyInfoInputs.cache
+C:\Users\Nada\source\repos\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.AssemblyInfo.cs
+C:\Users\Nada\source\repos\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.csproj.CoreCompileInputs.cache
+F:\Second term\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.csproj.AssemblyReference.cache
+F:\Second term\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.GeneratedMSBuildEditorConfig.editorconfig
+F:\Second term\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.AssemblyInfoInputs.cache
+F:\Second term\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.AssemblyInfo.cs
+F:\Second term\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.csproj.CoreCompileInputs.cache
+F:\Second term\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.exe
+F:\Second term\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.deps.json
+F:\Second term\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.runtimeconfig.json
+F:\Second term\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.runtimeconfig.dev.json
+F:\Second term\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.dll
+F:\Second term\Small_World\Small_World\bin\x86\Debug\net5.0\ref\Small_World.dll
+F:\Second term\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.pdb
+F:\Second term\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.dll
+F:\Second term\Small_World\Small_World\obj\x86\Debug\net5.0\ref\Small_World.dll
+F:\Second term\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.pdb
+F:\Second term\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.genruntimeconfig.cache
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.exe
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.deps.json
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.runtimeconfig.json
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.runtimeconfig.dev.json
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.dll
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\bin\x86\Debug\net5.0\ref\Small_World.dll
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.pdb
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.csproj.AssemblyReference.cache
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.AssemblyInfoInputs.cache
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.AssemblyInfo.cs
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.csproj.CoreCompileInputs.cache
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.dll
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\obj\x86\Debug\net5.0\ref\Small_World.dll
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.pdb
+C:\Users\Nada\Dropbox\PC\Desktop\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.genruntimeconfig.cache
+C:\Users\star\Downloads\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.exe
+C:\Users\star\Downloads\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.deps.json
+C:\Users\star\Downloads\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.runtimeconfig.json
+C:\Users\star\Downloads\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.runtimeconfig.dev.json
+C:\Users\star\Downloads\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.dll
+C:\Users\star\Downloads\Small_World\Small_World\bin\x86\Debug\net5.0\ref\Small_World.dll
+C:\Users\star\Downloads\Small_World\Small_World\bin\x86\Debug\net5.0\Small_World.pdb
+C:\Users\star\Downloads\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.csproj.AssemblyReference.cache
+C:\Users\star\Downloads\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\star\Downloads\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.AssemblyInfoInputs.cache
+C:\Users\star\Downloads\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.AssemblyInfo.cs
+C:\Users\star\Downloads\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.csproj.CoreCompileInputs.cache
+C:\Users\star\Downloads\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.dll
+C:\Users\star\Downloads\Small_World\Small_World\obj\x86\Debug\net5.0\ref\Small_World.dll
+C:\Users\star\Downloads\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.pdb
+C:\Users\star\Downloads\Small_World\Small_World\obj\x86\Debug\net5.0\Small_World.genruntimeconfig.cache
